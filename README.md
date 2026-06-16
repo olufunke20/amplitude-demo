@@ -18,3 +18,5 @@ Technologies Used
 
 Live Demo
 https://olufunke20.github.io/amplitude-demo/
+Loop link: https://www.loom.com/share/eacb29e4263d43bb8597b79d75743840
+
