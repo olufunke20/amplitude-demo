@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 120px;
+    background: #f4f4f4;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+button {
+    padding: 12px 24px;
+    margin: 10px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+#signupBtn {
+    background: black;
+    color: white;
+}
+
+#demoBtn {
+    background: #007bff;
+    color: white;
+}
